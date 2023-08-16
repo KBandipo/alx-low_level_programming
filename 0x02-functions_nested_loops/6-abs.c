@@ -2,7 +2,7 @@
 /**
  * _abs -Function to find absolute value of a number
  * @z: parameter
- * return: -z or z
+ * Return: -z or z
  */
 int _abs(int z)
 {
